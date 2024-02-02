@@ -35,7 +35,7 @@ npm install
 ```bash
 npm start
 ```
-    Open [https://localhost:3000](https://localhost:3000) in your browser.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Usage
 
