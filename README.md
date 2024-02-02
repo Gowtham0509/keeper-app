@@ -2,7 +2,7 @@
 
 Keeper App is a simple note-taking application built with React.
 
-##Features
+## Features
 
 - **Add and Delete Notes**: Create notes with titles and content. Delete them when you no longer need them.
 
@@ -35,7 +35,7 @@ npm install
 ```bash
 npm start
 ```
-    Open [http://localhost:3000](http://localhost:3000) in your browser.
+    Open [https://localhost:3000](https://localhost:3000) in your browser.
 
 ## Usage
 
